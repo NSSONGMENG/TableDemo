@@ -1,5 +1,7 @@
 # TableDemo
 
+本demo是利用约束对cell高度自适应的演示，通过本demo您可以学习如果去除繁琐的cell高度计算
+
 如果cell的子控件是添加在cell（非cell.contentView）上的，则约束应该相对于cell本身（非cell.contentView）
 如果cell的子控件是添加在cell.contentView，则约束应该像应于cell.contentView
 
